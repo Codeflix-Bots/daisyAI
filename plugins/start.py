@@ -28,7 +28,7 @@ async def start(_: Client, m: t.Message):
         reply_markup=t.InlineKeyboardMarkup(
             [
                 [
-                    t.InlineKeyboardButton(text="ᴊᴏɪɴ ᴍy ᴜᴩᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ",url="https://codeflix_bots")
+                    t.InlineKeyboardButton(text="ᴊᴏɪɴ ᴍy ᴜᴩᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ",url="https://t.me/codeflix_bots")
                 ]
             ]
         )
