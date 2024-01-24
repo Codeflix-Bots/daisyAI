@@ -7,5 +7,5 @@ class Config(object):
     API_ID = os.getenv("API_ID")
     API_HASH = os.getenv("API_HASH")
     GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyD214hhYJ-xf8rfaWX044_g1VEBQ0ua55Q")
-    LOG_CHANNEL = os.getenv('LOG_CHANNEL', '-1001868871195'))
+    LOG_CHANNEL = os.getenv('LOG_CHANNEL', '-1001868871195')
     mediaPattern = r"\b(https?://(?:(.*?)\.)?(?:instagram\.com|instagr\.am|t\.co|twitter\.com)(?:[^\s]*))\b" #pin\.it|pinterest\.com|
