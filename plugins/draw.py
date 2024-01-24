@@ -59,7 +59,7 @@ async def selectModel(_:Client,query:t.CallbackQuery):
     modelName = [i['name'] for i in Models if i['id'] == modelId]
     for i in img_url:
         images.append(t.InputMediaDocument(i))
-    images[-1] = t.InputMediaDocument(img_url[-1],caption=f"Your prompt: `{promptData['prompt']}`\nModel: `{modelName}` ᴘᴏᴡᴇʀᴇᴅ ʙʏ @codeflix_bots") # for caption
+    images[-1] = t.InputMediaDocument(img_url[-1],caption=f"Your prompt: `{promptData['prompt']}`\nModel: `{modelName}`\n\nᴘᴏᴡᴇʀᴇᴅ ʙʏ @codeflix_bots") # for caption
     await query.message.delete()
     try:
         del Database[auth_user]
