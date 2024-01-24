@@ -4,7 +4,6 @@ from bot import StartTime
 startText = """
 ᴛʜᴇsᴇ ᴀʀᴇ sᴏᴍᴇ ᴀɪ ᴄᴏᴍᴍᴀɴᴅs
 
- ➻ /ask : ʀᴇᴘʟʏ ᴛo ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
  ➻ /draw : ᴄʀᴇᴀᴛᴇ ɪᴍᴀɢᴇs
  ➻ /upscale : ᴜᴘsᴄᴀʟᴇ ʏᴏᴜʀ ɪᴍᴀɢᴇs
  ➻ /gpt : ᴄʜᴀᴛɢᴘᴛ
@@ -16,8 +15,7 @@ startText = """
  ➻ /gemini : ɢᴇᴍɪɴɪ ʙʏ ɢᴏᴏɢʟᴇ
  ➻ /imagine : ᴄʀᴇᴀᴛᴇ ᴀɪ ɪᴍᴀɢᴇs
 
- ➻ /fp : ᴛᴏ sᴇɴᴅ ʏᴏᴜʀ ғᴇᴇᴅʙᴀᴄᴋ ʙʏ ᴘᴜʙʟɪᴠᴀʟʟʏ
- ➻ /fa : ᴛᴏ sᴇɴᴅ ʏᴏᴜʀ ғᴇᴇᴅʙᴀᴄᴋ ʙʏ ᴀɴᴏɴʏᴍᴏᴜsʟʏ
+ ➻ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ - @weebs_support
 """
 
 @Client.on_message(filters.command(["start","help","repo","source"]))
