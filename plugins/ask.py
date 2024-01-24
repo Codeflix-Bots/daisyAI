@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 import requests
-from config import Config
+from Config import LOG_CHANNEL, GOOGLE_API_KEY, 
 import google.generativeai as genai
 
 genai.configure(api_key=GOOGLE_API_KEY)
