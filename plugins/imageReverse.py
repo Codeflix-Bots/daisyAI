@@ -35,7 +35,7 @@ async def reverseImageSearch(_: Client,m: t.Message):
             htmlMessage += f"<br/>".join([f"{url}" for url in urls])
             htmlMessage += "<br/><br/>By <a href='https://lexica.qewertyy.me'>LexicaAPI</a>"
             url = TelegraphClient.createPage("More Results",htmlMessage)
-            message += f"\n\n[More Results]({url})\nᴘᴏᴡᴇʀᴇᴅ ʙʏ @team_netflix"
+            message += f"\n\n[More Results]({url})\nᴘᴏᴡᴇʀᴇᴅ ʙʏ @codeflix_bots"
             await reply.delete()
             return await m.reply_text(message,reply_markup=btn)
         message ="\n".join([f"{index+1}. {name}" for index, name in enumerate(output['content']['bestResults']['names'])])
