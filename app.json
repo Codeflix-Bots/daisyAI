@@ -1,16 +1,16 @@
 {
-    "name": "SDWaifuRobot (@Qewertyy)",
+    "name": "ᴅᴀɪsʏ (@codeflix_bots)",
     "description": "An AI Related Utility Bot",
     "keywords": [
         "telegram",
         "bot",
         "ai",
-        "qewertyy",
-        "sdwaifurobot",
+        "erotixe",
+        "daisybot",
         "stablediffusion",
         "llm"
     ],
-    "repository": "https://github.com/Qewertyy/SDWaifuRobot",
+    "repository": "https://github.com/erotixe/daisyAI",
     "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-python"
