@@ -4,10 +4,6 @@ from bot import StartTime
 startText = """
 ᴛʜᴇsᴇ ᴀʀᴇ sᴏᴍᴇ ᴀɪ ᴄᴏᴍᴍᴀɴᴅs
 
- ➻ /mahadev : ɢᴇɴᴇʀᴀᴛᴇ Mᴀʜᴀᴅᴇᴠ ɪᴍᴀɢᴇ
- ➻ /fakegen : ɢᴇɴᴇʀᴀᴛᴇs ғᴀᴋᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴ
- ➻ /picgen : ɢᴇɴᴇʀᴀᴛᴇ ᴀ ғᴀᴋᴇ ᴘɪᴄ
- ➻ /eval : ᴛᴏ ᴇᴠᴀʟᴜᴀᴛᴇ sɪᴍᴘʟᴇ ᴄᴏᴅᴇ
  ➻ /ask : ʀᴇᴘʟʏ ᴛo ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
  ➻ /draw : ᴄʀᴇᴀᴛᴇ ɪᴍᴀɢᴇs
  ➻ /upscale : ᴜᴘsᴄᴀʟᴇ ʏᴏᴜʀ ɪᴍᴀɢᴇs
