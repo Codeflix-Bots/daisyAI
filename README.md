@@ -16,14 +16,14 @@
 <p>
 ➻ ᴀᴅᴠᴀɴᴄᴇᴅ & ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs ;
 
- ↬ /upscale : ᴜᴘsᴄᴀʟᴇ ʏᴏᴜʀ ɪᴍᴀɢᴇs
- ↬ /gpt :  ʜᴀᴠᴇ ᴇɴɢᴀɢɪɴɢ ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴs ᴡɪᴛʜ ᴛʜᴇ ᴘᴏᴡᴇʀғᴜʟ ɢᴘᴛ
- ↬ /bard : ʙᴀʀᴅ ᴀɪ ʙʏ ɢᴏᴏɢʟᴇ
- ↬ /mistral : ᴍɪsᴛʀᴀʟ ᴀɪ
- ↬ /palm : ᴘᴀʟᴍ ʙʏ ɢᴏᴏɢʟᴇ
- ↬ /reverse : ʀᴇᴠᴇʀsᴇ ɪᴍᴀɢᴇ sᴇᴀʀᴄʜ
- ↬ /gemini : ɢᴇᴍɪɴɪ ʙʏ ɢᴏᴏɢʟᴇ
- ↬ /imagine : ʟᴇᴛ ʏᴏᴜʀ ᴄʀᴇᴀᴛɪᴠɪᴛʏ sᴏᴀʀ ᴀs ʏᴏᴜ ɢᴇɴᴇʀᴀᴛᴇ ɪɴsᴘɪʀɪɴɢ ɪᴍᴀɢᴇs.<br>
+ - /upscale : ᴜᴘsᴄᴀʟᴇ ʏᴏᴜʀ ɪᴍᴀɢᴇs
+ - /gpt :  ʜᴀᴠᴇ ᴇɴɢᴀɢɪɴɢ ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴs ᴡɪᴛʜ ᴛʜᴇ ᴘᴏᴡᴇʀғᴜʟ ɢᴘᴛ
+ - /bard : ʙᴀʀᴅ ᴀɪ ʙʏ ɢᴏᴏɢʟᴇ
+ - /mistral : ᴍɪsᴛʀᴀʟ ᴀɪ
+ - /palm : ᴘᴀʟᴍ ʙʏ ɢᴏᴏɢʟᴇ
+ - /reverse : ʀᴇᴠᴇʀsᴇ ɪᴍᴀɢᴇ sᴇᴀʀᴄʜ
+ - /gemini : ɢᴇᴍɪɴɪ ʙʏ ɢᴏᴏɢʟᴇ
+ - /imagine : ʟᴇᴛ ʏᴏᴜʀ ᴄʀᴇᴀᴛɪᴠɪᴛʏ sᴏᴀʀ ᴀs ʏᴏᴜ ɢᴇɴᴇʀᴀᴛᴇ ɪɴsᴘɪʀɪɴɢ ɪᴍᴀɢᴇs.<br>
 </details>
 
 
@@ -33,9 +33,9 @@
 <p>
 <p>
   
-`API_ID` : Enter Your Telegram API ID.
-`API_HASH` : Enter Your Telegram API HASH.
-`BOT_TOKEN` : Enter your telegram bot token 
+- `API_ID` : Enter Your Telegram API ID.
+- `API_HASH` : Enter Your Telegram API HASH.
+- `BOT_TOKEN` : Enter your telegram bot token 
 </details>
 
 
