@@ -44,7 +44,16 @@ class Bot(Client):
         )
     async def start(self):
         await super().start()
-        LOGGER.info("Bot Started")
+        LOGGER.info(f""" \n\n       
+                                                   
+                     _           __   _   _            _               _         
+   ___    ___     __| |   ___   / _| | | (_) __  __   | |__     ___   | |_   ___ 
+  / __|  / _ \   / _` |  / _ \ | |_  | | | | \ \/ /   | '_ \   / _ \  | __| / __|
+ | (__  | (_) | | (_| | |  __/ |  _| | | | |  >  <    | |_) | | (_) | | |_  \__ \
+  \___|  \___/   \__,_|  \___| |_|   |_| |_| /_/\_\   |_.__/   \___/   \__| |___/
+               
+                       ▀                                
+                                          """)
 
     if Models is None:
         LOGGER.error("Models are empty!")
